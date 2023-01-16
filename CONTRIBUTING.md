@@ -8,7 +8,7 @@ This project adheres to the [Contributor Covenant 1.2](http://contributor-covena
 
 Reporting issues are a great way to contribute to the project. We are perpetually grateful about a well-written, thorough bug report.
 
-Before raising a new issue, check [our issue list](https://github.com/nakujaproject/airframeN1//issues) to determine if it already contains the problem that you are facing.
+Before raising a new issue, check [our issue list](https://github.com/nakujaproject/airframeN3/issues) to determine if it already contains the problem that you are facing.
 
 A good bug report shouldn't leave others needing to chase you for more information. Please be as detailed as possible. The following questions might serve as a template for writing a detailed
 report:
@@ -28,9 +28,9 @@ Good pull requests (e.g. patches, improvements, new features) are a fantastic he
 To contribute to the project, [fork](https://help.github.com/articles/fork-a-repo/) it, clone your fork repository, and configure the remotes:
 
 ```bash
-git clone https://github.com/<your-username>/airframeN1.git
-cd airframeN1
-git remote add upstream https://github.com/nakujaproject/airframeN1.git
+git clone https://github.com/<your-username>/airframeN3.git
+cd airframeN3
+git remote add upstream https://github.com/nakujaproject/airframeN3.git
 ```
 
 If your cloned repository is behind the upstream commits, then get the latest changes from upstream:

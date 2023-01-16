@@ -64,7 +64,7 @@ Twitter: @moyahima
 
 He is the leader of the airframe subgroup.
 
-Email: dmashy@gmail.com  
+Email: dmashy@gmail.com
 
 ## Before your first day
 
@@ -143,7 +143,7 @@ Once you're connected to the official communication network for the airframe tea
   <tr>
     <td scope="row">5</td>
     <td>&#9744;</td>
-    <td>Connect to Airframe communication channels, Slack, Whatsapp, Scrapbox and Blogpost</td>
+    <td>Connect to Airframe communication channels, Discord, Whatsapp, Scrapbox and Blogpost</td>
     <td>Info will be sent to you in email week before your first week</td>
   </tr>
 
