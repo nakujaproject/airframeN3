@@ -186,7 +186,7 @@ Once you're connected to the official communication network for the airframe tea
   <tr>
     <td scope="row">4</td>
     <td>&#9744;</td>
-    <td>Make sure your Slack avatar and Google avatar contain a picture. </td>
+    <td>Make sure your Discord avatar and Google avatar contain a picture. </td>
     <td>This information is publicly available</td>
   </tr>
  </table>
@@ -269,7 +269,7 @@ Once you're connected to the official communication network for the airframe tea
     <td scope="row">3</td>
     <td>&#9744;</td>
     <td>Complete mandatory online trainings.</td>
-    <td>Learn to use Inventor and do some analysis</td>
+    <td>Learn to use Inventor and do some analysis(CFD - Autodesk CFD / Ansys , Datcom)</td>
   </tr>
   <tr>
     <td scope="row">4</td>
