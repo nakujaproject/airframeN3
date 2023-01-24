@@ -63,10 +63,15 @@ In summary, aluminum fabrication is feasible in rocketry and it is a commonly us
 - Certain stresses can also cause aluminum to break, as it can be brittle in some ways from manufacturing processes.
 - There is the issue of low melting point, which will require the need of an insulation material after fabrication.
 
-## CONCERN 
+### CONCERN 
 Due to the low melting point of Aluminium:
 * Some processing methods such as cutting and welding might pose a hinderance during fabrication if care is not taken. This however can be avoided.
 * Secondly, we need to take care of the type of insulation to be done on the airframe of our rocket if Aluminium is to be used. The choice of the appropriate insulation is yet to be determined. 
+
+#### CONCLUSION
+There was a suggestion to use the 2 series grade aluminium. The only concern was that this series was heavier something close to steel. This was voted against.
+
+Coming to the two recommended grades of aluminium, the 6 series posses for better fabrication and quality. Therefore, we suggest the grade AA 6061 Aluminum alloy for this proposed rocket.
 
 ###### References
 - [Aluminium fabrication](https://www.thomasnet.com/articles/custom-manufacturing-fabricating/about-aluminum-fabrication/#:~:text=Aluminum%20fabrication%20is%20the%20process,just%20to%20name%20a%20few.)

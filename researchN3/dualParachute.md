@@ -12,10 +12,13 @@ The primary parachute, also called a drogue chute, is typically deployed first a
 >
 >> The primary parachute is usally smaller whil the secondary chute is larger and is ejected at lower altitude.
 
+
 ## PRINCIPLE OF OPERATION
-The control altimeter works by sensinsing the altitude of the rocket and then sending a charge at two different ejection charges at the aapropriate times i.e at apogee and at some distance from the ground.
+The control altimeter works by sensinsing the altitude of the rocket and then sending a charge at two different ejection charges at the apropriate times i.e at apogee and at some distance from the ground.
 
 > While the drogue chute brings down the rocket quickly, the electronic payload is still sensing the altitude of the rocket. When it descends to a pre-programmed height (which you control), it then triggers a second time. 
+[The first event, deployment of the drogue chute](https://westrocketry.com/articles/DualDeploy/dualevent1.jpg)
+[The second event, deployment of main chute](https://westrocketry.com/articles/DualDeploy/dualevent2.jpg)
 >
 > Since the rocket is now closer to the ground, the wind really doesn't have the time to push it downrange too far. So it lands slowly, but much closer to the launch pad. That means you don't have to walk very far to retrieve your rocket.
 
@@ -53,3 +56,4 @@ Having dual parachutes in a rocket is a feasible design option. The use of multi
 Additionally, dual parachutes can also be used to control the descent rate and landing location of the rocket. However, the implementation of dual parachutes will also depend on the size, weight, and cost constraints of the rocket.
 
 It is therefore, reasonable to conclude that for a successful recovery of our entire rocket, the dual deployment is the most accurate and feasible means of chute deployent.
+
